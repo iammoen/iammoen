@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I have a degree in Psychology and was going to go to school for HR.
+
 <!--
 **iammoen/iammoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
